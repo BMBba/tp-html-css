@@ -1,0 +1,37 @@
+html {
+    display: block;
+}
+img { height: 200; 
+        width: 100%;
+
+}
+
+body
+{
+    background-color :green ;
+
+}
+h1 {
+    text-align :center ;
+    color: rgb(223, 221, 215);
+
+}
+.mra {
+width:150% ;  
+height:150px ;
+border: 2px solid black ;
+text-align: center;
+background: yellow;
+margin: 5px ;
+border-radius: 2%;
+justify-content: center;
+display: flex;
+
+}
+.bmb{
+    display: flex;
+}
+p
+{
+    transform: rotate(90deg);
+}
